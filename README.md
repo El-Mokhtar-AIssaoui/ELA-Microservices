@@ -143,7 +143,7 @@ Then paste the followig lines into the file and save it when you leave nano. Thi
 ```text
 sleep 15
 sudo killall -9 bluetoothd
-sudo docker restart ela-docker_msbluetooth_1
+sudo docker restart ela-microservices_msbluetooth_1
 ```
 
 Then you can restart your computer to finish the installation and then, you're ready to use our microservices and develop with them on your raspbian device.
